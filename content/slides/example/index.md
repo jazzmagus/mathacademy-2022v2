@@ -1,16 +1,11 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
-tags: []
-categories: []
-date: '2019-02-05T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
+  theme: dark
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
+  highlight_style: monokai
 ---
 
 # Create slides in Markdown with Wowchemy
@@ -38,7 +33,7 @@ slides:
 - Speaker notes: `S`
 - Fullscreen: `F`
 - Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
+- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
 
 ---
 
@@ -47,7 +42,6 @@ slides:
 Inline code: `variable`
 
 Code block:
-
 ```python
 porridge = "blueberry"
 if porridge == "blueberry":
@@ -84,7 +78,7 @@ Press `Space` to play!
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
 
----
+--
 
 A fragment can accept two optional parameters:
 
@@ -99,19 +93,17 @@ Add speaker notes to your presentation
 
 ```markdown
 {{%/* speaker_note */%}}
-
 - Only the speaker can read these notes
 - Press `S` key to view
-  {{%/* /speaker_note */%}}
+{{%/* /speaker_note */%}}
 ```
 
 Press the `S` key to view the speaker notes!
 
 {{< speaker_note >}}
-
 - Only the speaker can read these notes
 - Press `S` key to view
-  {{< /speaker_note >}}
+{{< /speaker_note >}}
 
 ---
 
