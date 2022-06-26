@@ -2,12 +2,13 @@
 title: Recuperi classi prime
 transition: convex
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
    theme: serif
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
    highlight_style: dracula
 ---
+
+<!-- title: Recuperi classi prime
+transition: convex
+theme: serif -->
 
 <section data-background="pingpong_bkg.jpg", data-background-opacity="0.5">
   <h2 style="color:#3B2F2F">RECUPERI CLASSI PRIME</h2>
