@@ -1,16 +1,12 @@
 ---
 title: Recuperi classi prime
 transition: convex
-slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-   theme: serif
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
-   highlight_style: dracula
+theme: serif
+highlight_style: dracula
 ---
 
 <section data-background="pingpong_bkg.jpg", data-background-opacity="0.5">
-  <h2 style="color:#3B2F2F">Fattorizzazione polinomiale</h2>
+  <h2 style="color:#3B2F2F">RECUPERI CLASSI PRIME</h2>
   <h3 style="color:#3B2F2F"><em>esercizi e ripasso</em></h3>
   <h5 style="color:#8A4117"><em>prof. diego fantinelli</em></h5>
   <h5 style="color:#8A4117">ITI "Enrico Fermi" - Bassano del Grappa</h5>
