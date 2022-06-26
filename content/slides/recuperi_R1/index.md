@@ -59,15 +59,13 @@ $$\int \sqrt{1-x^2} \, dx$$
 
 ---
 
-
+<section data-background="calm_bkg.jpg", data-background-opacity="0.5" data-transition="zoom">
   <h3 class="fragment" style="color:#FFFFFF; font-size: 60px;">una riflessione per iniziare...</h3>
   <h3 class="fragment" style="color:#FFFFFF; font-size: 40px;"><em>“Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.”
   <br>&mdash; Nikola Tesla</em></h3>
 </section>
 
 ---
-
-
 
 <section data-background="pingpong_bkg.jpg", data-background-opacity="0.5", style="font-size:90%" data-transition="convex">
   <h2 style="color:#3B2F2F">Prerequisiti</h2>
@@ -90,7 +88,6 @@ $$\int \sqrt{1-x^2} \, dx$$
 </section>
 
 ---
-
 
 <section data-background="calm_bkg.jpg", data-background-opacity="0.5" data-transition="zoom">
 <h2 class="fragment" style="color:#3B2F2F; font-size: 40pt;"><em>“Gli esercizi presenti in questa selezione hanno tutti lo stesso obiettivo: la <b>fattorizzazione</b> di un polinomio in un prodotto di fattori <b>irriducibili</b>"</em>
