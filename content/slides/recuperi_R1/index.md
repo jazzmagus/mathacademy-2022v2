@@ -1,10 +1,10 @@
----
+<!-- ---
 title: Recuperi classi prime
 transition: convex
 slides:
    theme: serif
    highlight_style: dracula
----
+--- -->
 
 <!-- 
 ---
@@ -60,8 +60,8 @@ $$\int \sqrt{1-x^2} \, dx$$
 ---
 
 <section data-background="calm_bkg.jpg", data-background-opacity="0.5" data-transition="zoom">
-  <h3 class="fragment" style="color:#FFFFFF; font-size: 60px;">una riflessione per iniziare...</h3>
-  <h3 class="fragment" style="color:#FFFFFF; font-size: 40px;"><em>“Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.”
+  <h3 class="fragment" style="color:#8A4117; font-size: 60px;">una riflessione per iniziare...</h3>
+  <h3 class="fragment" style="color:#8A4117; font-size: 40px;"><em>“Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.”
   <br>&mdash; Nikola Tesla</em></h3>
 </section>
 
