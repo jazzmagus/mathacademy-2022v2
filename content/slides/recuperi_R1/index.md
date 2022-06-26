@@ -1,9 +1,10 @@
 ---
 title: Recuperi classi prime
-Linktitle: slides | Recuperi
 theme: serif
+transition: convex
 highlight_style: dracula
 ---
+
 <section data-background="pingpong_bkg.jpg", data-background-opacity="0.5">
   <h2 style="color:#3B2F2F">Fattorizzazione polinomiale</h2>
   <h3 style="color:#3B2F2F"><em>esercizi e ripasso</em></h3>
