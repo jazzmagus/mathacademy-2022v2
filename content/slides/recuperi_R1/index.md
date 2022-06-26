@@ -17,6 +17,8 @@ theme: serif
 <section data-background="pingpong_bkg.jpg", data-background-opacity="0.5">
   <h2 style="color:#3B2F2F">RECUPERI CLASSI PRIME</h2>
   <h3 style="color:#3B2F2F"><em>esercizi e ripasso</em></h3>
+  <br>
+  <br>
   <h5 style="color:#8A4117"><em>prof. diego fantinelli</em></h5>
   <h5 style="color:#8A4117">ITI "Enrico Fermi" - Bassano del Grappa</h5>
 </section>
