@@ -13,7 +13,7 @@ slides:
    highlight_style: dracula
 ---
 
-{{< slide background-image="pingpong_bkg.jpg" background-opacity="0.6" >}}
+<!-- {{< slide background-image="pingpong_bkg.jpg" background-opacity="0.6" >}} -->
 
 <section data-transition="convex">
   <h2 style="color:#3B2F2F">Fattorizzazione polinomiale</h2>

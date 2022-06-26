@@ -1,5 +1,6 @@
 ---
-title: cstandard lesson
+title: Recuperi classi prime
+Linktitle: slides | Recuperi
 summary: An introduction to using Wowchemy's Slides feature.
 authors: [diego fantinelli]
 tags: [math]
@@ -49,41 +50,3 @@ $$\int \sqrt{1-x^2} \, dx$$
 
 >una breve descrizione non fa mai male.  
 >--marchetto da Rubbio
-
---
-
-
-| descrizione | formula          | note       |
-| ----------- | ---------------- | ---------- |
-| derivata    | x^2              | no comment |
-| derivata    | y=x^2 - 3x+1 | non funziona una sega, però la tabella è _cool_    |
-| derivata    | $$y=x^2 - 3x+1$$ | no comment |
-
---
-
-1. questa non è una formula
-2. questa sì: $$f(x)=\sum_{n=0}^\infty\dfrac{f^{(n)}(a)}{n!}(x-a)^n$$
-
----
-
-## *esercizio*:
-- Determinare il numero di soluzioni **reali** della seguente equazione: 
- - $$x^4 + 3x^2 - 4 = 0$$
-
----
-
-### _soluzione_:
-- effettuaimo la sostituzione $$t=x^2$$ ottenendo un'equazione di secondo grado: $$t^2 + 3t - 4 =0$$
-- le cui soluzioni sono: 
-$$\begin{align}
-\Delta = b^2 - 4ac = 9 + 16 = 25\\
-\Rightarrow t_{1,2}&= \dfrac{-b \pm \sqrt{\Delta}}{2a}\\ &= \dfrac{-3 \pm \sqrt{5}}{2}= 1, \, 4
-\end{align}$$
-- a questo punto è possibile sostituire e risolvere le due equazioni di secondo grado:
-	- $$x^2 = 1$$
-	- $$x^2 = -4$$
-- che producono due soluzioni ciascuna. 
-	Poiché siamo interessati alle **soluzioni reali** dobbiamo considerare soltanto la prima equazione e pertanto le soluzioni saranno due: 
-	$${x = -1}$$ e $${x=1}$$
-
----
