@@ -1,11 +1,6 @@
 ---
 title: Recuperi classi prime
 Linktitle: slides | Recuperi
-summary: An introduction to using Wowchemy's Slides feature.
-authors: [diego fantinelli]
-tags: [math]
-categories: [fattorizzazione]
-date: "2022-05-09T00:00:00Z"
 theme: serif
 highlight_style: dracula
 ---
