@@ -1,10 +1,10 @@
-<!-- ---
+---
 title: Recuperi classi prime
 transition: convex
 slides:
    theme: serif
    highlight_style: dracula
---- -->
+---
 
 <!-- 
 ---
