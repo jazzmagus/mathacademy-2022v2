@@ -63,7 +63,7 @@ gallery_item:
 <!-- {{< toc hide_on="xl" >}} -->
 
 > There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
-> <br> &mdash; <cite>Anaïs Nin</cite>
+> &mdash; <cite>Anaïs Nin</cite>
 
 ## Diofanto di Alessandra
 
