@@ -72,7 +72,7 @@ gallery_item:
 
 - La polizia visionò le videocamere di sicurezza ed entro la mezzanotte il sig. Arthur fu arrestato. Incredibilmente disse: "ma indossavo il succo di limone...!".
 
-- Sconcertati da questo ragionamento, David Dunning e Justin Kruger, due psicologi, hanno studiato il signor Wheeler e altri come lui. Sono giunti alla conclusione che ==le persone con scarse capacità in un compito tendono, paradossalmente, a sopravvalutarsi==. Questo pregiudizio cognitivo è noto come effetto Dunning-Kruger.
+- Sconcertati da questo ragionamento, David Dunning e Justin Kruger, due psicologi, hanno studiato il signor Wheeler e altri come lui. Sono giunti alla conclusione che <mark class="hltr-green">le persone con scarse capacità in un compito tendono, paradossalmente, a sopravvalutarsi</mark>. Questo pregiudizio cognitivo è noto come effetto Dunning-Kruger.
 
 - Diamo un'occhiata a questo tracciando graficamente la propria fiducia nelle proprie capacità rispetto alla propria conoscenza effettiva in un campo.
 
